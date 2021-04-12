@@ -17,3 +17,6 @@ Como no exemplo acima, a linguagem é simplificada ao máximo tanto no texto qua
 
 A landing page "Comece aqui" é um protótipo criado durante o INPI HACK, conta majoritariamente com o desenvolvimento front-end e é funcional, 
 entretanto apresenta algumas falhas devido ao desfalque de desenvolvedores no time. 
+
+
+PS: Foi a primeira página web que desenvolvi e gostaria de agradecer ao INPI Hack pela oportunidade!
